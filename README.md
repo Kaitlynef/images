@@ -1,5 +1,5 @@
 
-<title>My Inspiration - [Taylor Swift]</title>
+<title>My Inspiration - Taylor Swift</title>
 
 <h1>Portrait</h1>
 
