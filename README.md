@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Inspiration - [Taylor Swifr]</title>
+    <title>My Inspiration - [Taylor Swift]</title>
 </head>
 <body>
-    <h1>My Hero: [Taylor Swift]</h1>
+    <h1>My Hero: Taylor Swift</h1>
     <p>This is my paragraph about my hero.</p>
 </body>
 </html>
