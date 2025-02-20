@@ -1,5 +1,5 @@
 
-<h1>My Hero: Taylor Swift</h1> 
+<title>Taylor Swift</title> 
 
 <h1>Portrait</h1>
 
