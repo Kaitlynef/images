@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1>My Hero: Taylor Swift</h1>
-    
+
+<h1>My Hero: Taylor Swift</h1> 
 
 <h1>Portrait</h1>
 
